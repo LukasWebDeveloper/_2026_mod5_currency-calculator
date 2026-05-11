@@ -4,3 +4,9 @@
 ## Below is screenshot this site
 ![Image](/image/screenshotSite.png)
 
+## Used technology is:
+
+- HTML
+- CSS
+- JS
+- BEM
